@@ -189,6 +189,9 @@ footer p {
         font-size: 16px;
     }
     /*section2*/
+    .div-info {
+        margin: 0 auto;
+    }
     .p1 {
         font-size: 20px;
     }
